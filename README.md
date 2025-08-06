@@ -43,9 +43,9 @@ This is a fully responsive and functional clone of Netflix built using **React.j
 
 ---
 
-### 📱 Mobile View
+### 📱 Player View
 
-![Mobile View](./screenshots/mobile-view.png)
+![Player](./screenshots/player.png)
 
 ---
 
