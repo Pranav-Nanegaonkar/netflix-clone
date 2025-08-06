@@ -110,7 +110,7 @@ To run this project locally:
 ## 📫 Contact
 
 👤 **Pranav Nanegaonkar**  
-📧 [YourEmail@example.com](mailto:youremail@example.com)  
+📧 [nanegaonkarpranav68@gmail.com](mailto:nanegaonkarpranav68@gmail.com)  
 🔗 [GitHub Profile](https://github.com/Pranav-Nanegaonkar)
 
 ---
