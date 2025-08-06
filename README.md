@@ -31,15 +31,15 @@ This is a fully responsive and functional clone of Netflix built using **React.j
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
+### 🏠 Login Page
 
-![Home](./screenshots/home.png)
+![Login](./screenshots/login.png)
 
 ---
 
-### 🔐 Login Page
+### 🔐 Home Page
 
-![Login](./screenshots/login.png)
+![Home](./screenshots/home.png)
 
 ---
 
